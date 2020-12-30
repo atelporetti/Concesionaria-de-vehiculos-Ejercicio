@@ -1,5 +1,8 @@
 # onreadyfyMe
-Ejercicio Programación Orientada a Objetos
+
+_Ejercicio Programación Orientada a Objetos_
+
+## Enunciado 📋
 
 Imaginemos una concesionaria de autos y motos.
 Crear un programa en Java o Javascript que, al ejecutarse, se visualice lo siguiente por consola:
@@ -19,10 +22,18 @@ Peugeot 206
 Yamaha YBR
 Honda Titan
 
+## Requisitos 📖
+
 La solución debe cumplir con los siguientes requisitos:
-  - Estar programada en Java o Javascript según tu lenguaje de preferencia.
-  - Diseñar una solución orientada a objetos y subir al repositorio un diagrama de clases junto con el código.
-  - La salida es por consola y exactamente como se requiere.
-  - NO usar librerías de terceros.
-  - Cargar la lista de autos en un único método. No hay ingreso por pantalla de ningún tipo.
-  - El algoritmo usado para la impresión no tiene que depender de la cantidad, modelo o tipo de vehículo.
+
+- Estar programada en Java o Javascript según tu lenguaje de preferencia.
+- Diseñar una solución orientada a objetos y subir al repositorio un diagrama de clases junto con el código.
+- La salida es por consola y exactamente como se requiere.
+- NO usar librerías de terceros.
+- Cargar la lista de autos en un único método. No hay ingreso por pantalla de ningún tipo.
+- El algoritmo usado para la impresión no tiene que depender de la cantidad, modelo o tipo de vehículo.
+
+## Construido con 🛠️
+
+- [Java](JDK 11)
+- [Python](v 3.9)
