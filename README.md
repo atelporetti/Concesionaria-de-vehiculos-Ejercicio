@@ -33,5 +33,6 @@ Honda Titan
 
 ## Construido con 🛠️
 
-- [Java] - JDK 11
-- [Python] -v 3.9.1
+- Java ☕   JDK 11         [Java](http://www.dropwizard.io/1.0.2/docs/)        ☕   JDK 11
+- JavaScript ☕   JDK 11   [JavaScript](http://www.dropwizard.io/1.0.2/docs/)  ☕   JDK 11
+- Python 🐍 v 3.9.1        [Python](http://www.dropwizard.io/1.0.2/docs/)      🐍 v 3.9.1
