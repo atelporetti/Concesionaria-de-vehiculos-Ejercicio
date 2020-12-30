@@ -24,8 +24,6 @@ Honda Titan
 
 ## Requisitos 📖
 
-La solución debe cumplir con los siguientes requisitos:
-
 - Estar programada en Java o Javascript según tu lenguaje de preferencia.
 - Diseñar una solución orientada a objetos y subir al repositorio un diagrama de clases junto con el código.
 - La salida es por consola y exactamente como se requiere.
@@ -35,5 +33,5 @@ La solución debe cumplir con los siguientes requisitos:
 
 ## Construido con 🛠️
 
-- [Java](JDK 11)
-- [Python](v 3.9)
+- [Java] - JDK 11
+- [Python] -v 3.9.1
