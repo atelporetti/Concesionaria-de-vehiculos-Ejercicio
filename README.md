@@ -34,5 +34,4 @@ Crear un programa en Java o Javascript que, al ejecutarse, se visualice lo sigui
 ## Construido con 🛠️
 
 - [Java](https://github.com/atelporetti/onreadyfyMe/tree/main/src/onreadyfyMe)  ☕   JDK 11
-- JavaScript ☕   JDK 11   [JavaScript](http://www.dropwizard.io/1.0.2/docs/)    ☕   JDK 11
-- [Python](https://github.com/atelporetti/onreadyfyMe/blob/main/Principal.py)   🐍 v 3.9.1
+- [Python](https://github.com/atelporetti/onreadyfyMe/blob/main/Principal.py)   🐍 v 3.9.1 (no solicitado en la consigna, pero incluido para comparar)
