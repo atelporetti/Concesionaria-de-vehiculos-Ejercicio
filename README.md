@@ -24,7 +24,7 @@ Crear un programa en Java o Javascript que, al ejecutarse, se visualice lo sigui
 
 ## Requisitos 📖
 
-- Estar programada en Java o Javascript según tu lenguaje de preferencia.
+- Estar programada en Java o Javascript.
 - Diseñar una solución orientada a objetos y subir al repositorio un diagrama de clases junto con el código.
 - La salida es por consola y exactamente como se requiere.
 - NO usar librerías de terceros.
@@ -34,4 +34,4 @@ Crear un programa en Java o Javascript que, al ejecutarse, se visualice lo sigui
 ## Construido con 🛠️
 
 - [Java](https://github.com/atelporetti/onreadyfyMe/tree/main/Java/src/onreadyfyMe)  ☕   JDK 11
-- [Python](https://github.com/atelporetti/onreadyfyMe/blob/main/Python/Principal.py)   🐍 v 3.9.1 (no solicitado en la consigna, pero incluido igualmente 😉)
+- [Python](https://github.com/atelporetti/onreadyfyMe/blob/main/Python/Principal.py)   🐍 v 3.9.1 (no solicitado en la consigna, pero... ¿porque no? 😉)
