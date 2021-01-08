@@ -1,7 +1,8 @@
 package onreadyfyMe;
 
 import java.text.DecimalFormat;
-
+// Podria haber implementado una clase abstracta ya que no instancio ningun objeto con esta clase Vehiculo, para este ejercicio. 
+// De haberlo hecho la sintaxis hubiera sido 'public abstract class...'
 public class Vehiculo implements Comparable<Vehiculo> {
 	private String marca;
 	private String modelo;
