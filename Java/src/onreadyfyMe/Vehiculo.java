@@ -40,12 +40,7 @@ public abstract class Vehiculo implements Comparable<Vehiculo> {
 		this.precio = precio;
 	}
 
-	// En caso de implementar la clase Vehiculo como abstracta, deberia implementar el metodo de la siguiente forma: public abstract void mostrarTodosDatos();
-	public void mostrarTodosDatos() {
-		DecimalFormat formatea = new DecimalFormat("###,###.00");
-		System.out.println(
-				"Marca: " + getMarca() + " // Modelo: " + getModelo() + " // Precio: $" + formatea.format(getPrecio()));
-	}
+	public abstract void mostrarTodosDatos();
 
 	public String mostrarMarcaModelo() {
 		String marcaModelo = getMarca() + " " + getModelo();
