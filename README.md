@@ -11,6 +11,7 @@ Crear un programa en Java o Javascript que, al ejecutarse, se visualice lo sigui
     Marca: Honda // Modelo: Titan // Cilindrada: 125cc // Precio: $60.000,00
     Marca: Peugeot // Modelo: 208 // Puertas: 5 // Precio: $250.000,00
     Marca: Yamaha // Modelo: YBR // Cilindrada: 160cc // Precio: $80.500,50
+    Marca: Peugeot // Modelo: 208 // Puertas: 5 // Precio: $250.000,00 // Voltaje: 240V
     =============================
     Vehículo más caro: Peugeot 208
     Vehículo más barato: Honda Titan
@@ -21,6 +22,12 @@ Crear un programa en Java o Javascript que, al ejecutarse, se visualice lo sigui
     Peugeot 206
     Yamaha YBR
     Honda Titan
+    =============================
+    Vehiculos de lujo:
+    Peugeot 208
+    Yamaha YBR
+
+Son considerados vehículos de lujo los que posean Voltaje / cilindrada mayor a 150cc
 
 ## Requisitos 📖
 
