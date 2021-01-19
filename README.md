@@ -11,27 +11,28 @@ Crear un programa en Java o Javascript que, al ejecutarse, se visualice lo sigui
     Marca: Honda // Modelo: Titan // Cilindrada: 125cc // Precio: $60.000,00
     Marca: Peugeot // Modelo: 208 // Puertas: 5 // Precio: $250.000,00
     Marca: Yamaha // Modelo: YBR // Cilindrada: 160cc // Precio: $80.500,50
-    Marca: Peugeot // Modelo: 208 // Puertas: 5 // Precio: $250.000,00 // Voltaje: 240V
+    Marca: Toyota // Modelo: Prius // Puertas: 5 // Precio: $350.000,00 // Voltaje: 240V
     =============================
-    Vehículo más caro: Peugeot 208
+    Vehículo más caro: Toyota Prius
     Vehículo más barato: Honda Titan
     Vehículo que contiene en el modelo la letra ‘Y’: Yamaha YBR $80.500,50
     =============================
     Vehículos ordenados por precio de mayor a menor:
+    Toyota Prius
     Peugeot 208
     Peugeot 206
     Yamaha YBR
     Honda Titan
     =============================
     Vehiculos de lujo:
-    Peugeot 208
+    Toyota Prius
     Yamaha YBR
 
 Son considerados vehículos de lujo los que posean Voltaje / cilindrada mayor a 150cc
 
 ## Requisitos 📖
 
-- Estar programada en Java o Javascript.
+- Estar programada en Java.
 - Diseñar una solución orientada a objetos y subir al repositorio un diagrama de clases junto con el código.
 - La salida es por consola y exactamente como se requiere.
 - NO usar librerías de terceros.
