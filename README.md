@@ -5,7 +5,7 @@ _Ejercicio Programación Orientada a Objetos_
 ## Enunciado 📋
 
 Imaginemos una concesionaria de autos y motos.
-Crear un programa en Java o Javascript que, al ejecutarse, se visualice lo siguiente por consola:
+Crear un programa en Java que, al ejecutarse, se visualice lo siguiente por consola:
 
     Marca: Peugeot // Modelo: 206 // Puertas: 4 // Precio: $200.000,00
     Marca: Honda // Modelo: Titan // Cilindrada: 125cc // Precio: $60.000,00
