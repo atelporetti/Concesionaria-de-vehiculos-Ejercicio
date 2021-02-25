@@ -42,4 +42,4 @@ Son considerados vehículos de lujo los que posean Voltaje / cilindrada mayor a 
 ## Construido con 🛠️
 
 - [Java](https://github.com/atelporetti/onreadyfyMe/tree/main/Java/src/onreadyfyMe)  ☕   JDK 11
-- [Python](https://github.com/atelporetti/onreadyfyMe/blob/main/Python/Principal.py)   🐍 v 3.9.1 (no solicitado en la consigna, pero... ¿porque no? 😉)
+- [Python](https://github.com/atelporetti/Concesionaria-de-vehiculos-Ejercicio/tree/main/Python)   🐍 v 3.9.1 (no solicitado en la consigna, pero... ¿porque no? 😉)
