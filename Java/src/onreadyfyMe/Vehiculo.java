@@ -1,7 +1,5 @@
 package onreadyfyMe;
 
-import java.text.DecimalFormat;
-
 public abstract class Vehiculo implements Comparable<Vehiculo> {
 	private String marca;
 	private String modelo;
