@@ -34,7 +34,7 @@ public class Principal {
 		return listaVehiculos;
 	}
 
-	// El algoritmo usado para la impresión no tiene que depender de la cantidad, modelo o tipo de vehículo.
+	// El algoritmo usado para la impresiÃ³n no tiene que depender de la cantidad, modelo o tipo de vehÃ­culo.
 	public static void imprimirVehiculos(ArrayList<Vehiculo> vehiculos) {
 		for (Vehiculo vehiculo : vehiculos) {
 			vehiculo.mostrarTodosDatos();
@@ -65,15 +65,15 @@ public class Principal {
 				autoMasBarato = vehiculo.mostrarMarcaModelo();
 			}
 		}
-		System.out.println("Vehículo más caro: " + autoMasCaro);
-		System.out.println("Vehículo más barato: " + autoMasBarato);
+		System.out.println("VehÃ­culo mÃ¡s caro: " + autoMasCaro);
+		System.out.println("VehÃ­culo mÃ¡s barato: " + autoMasBarato);
 	}
 
 	public static void contieneLetraY(ArrayList<Vehiculo> vehiculos) {
 		DecimalFormat formatea = new DecimalFormat("###,###.00");
 		for (Vehiculo vehiculo : vehiculos) {
 			if (vehiculo.getModelo().contains("Y")) {
-				System.out.println("Vehículo que contiene en el modelo la letra ‘Y’: " + vehiculo.mostrarMarcaModelo()
+				System.out.println("VehÃ­culo que contiene en el modelo la letra â€˜Yâ€™: " + vehiculo.mostrarMarcaModelo()
 						+ " $" + formatea.format(vehiculo.getPrecio()));
 			}
 		}
@@ -81,7 +81,7 @@ public class Principal {
 	}
 
 	public static void imprimirVehiculosOrdenadosPrecio(ArrayList<Vehiculo> vehiculos) {
-		System.out.println("Vehículos ordenados por precio de mayor a menor:");
+		System.out.println("VehÃ­culos ordenados por precio de mayor a menor:");
 		Collections.sort(vehiculos);
 		for (Vehiculo vehiculo : vehiculos) {
 			System.out.println(vehiculo.mostrarMarcaModelo());
@@ -90,8 +90,7 @@ public class Principal {
 	}
 
 	public static void imprimirVehiculosLujo(ArrayList<Vehiculo> vehiculos) {
-		DecimalFormat formatea = new DecimalFormat("###,###.00");
-		System.out.println("Vehículos de lujo:");
+		System.out.println("VehÃ­culos de lujo:");
 		for (Vehiculo vehiculo : vehiculos) {
 			if (vehiculo.esLujo())
 			System.out.println(vehiculo.mostrarMarcaModelo());
