@@ -1,4 +1,6 @@
-class Vehiculo():
+from abc import ABC, abstractmethod
+
+class Vehiculo(ABC):
     __marca = ''
     __modelo = ''
     __precio = 0
@@ -29,5 +31,6 @@ class Vehiculo():
     def __str__(self):
         return f'Marca: {self.get_marca()} // Modelo: {self.get_modelo()} // Precio: ${self.get_precio()}'
 
+    @abstractmethod
     def esLujo(self):
         pass
