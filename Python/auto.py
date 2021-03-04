@@ -18,3 +18,6 @@ class Auto(Vehiculo):
 
     def __gt__(self, auto):
         return (self.get_precio() > auto.get_precio())
+
+    def esLujo(self):
+        return super().esLujo()
