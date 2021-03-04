@@ -26,9 +26,6 @@ class Vehiculo():
     def set_precio(self, precio):
         self.__precio = precio
 
-    def agregaVehiculo(self):
-        vehiculos = []
-
     def __str__(self):
         return f'Marca: {self.get_marca()} // Modelo: {self.get_modelo()} // Precio: ${self.get_precio()}'
 
